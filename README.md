@@ -10,4 +10,5 @@
 1. **A Dance With Dragons** by George R. R. Martin
 1. **A Feast for Crows** by George R. R. Martin
 1. **Droidmaker: George Lucas And the Digital Revolution** by Michael Rubin
+1. **The Gospel of Judas, Second Edition** by  Rodolphe Kasser, Marvin Meyer, Gregor Wurst, Francois Gaudard
 1. **Fargo Rock City** by Chuck Klosterman
