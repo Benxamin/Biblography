@@ -15,4 +15,5 @@
 1. **Droidmaker: George Lucas And the Digital Revolution** by Michael Rubin
 1. **The Gospel of Judas, Second Edition** by  Rodolphe Kasser, Marvin Meyer, Gregor Wurst, Francois Gaudard
 1. **Fargo Rock City** by Chuck Klosterman
+1. **A Brief History of Time: From the Big Bang to Black Holes** by Stephen W. Hawking
 1. **Theories of the Univers** ed by Milton K. Munitz
