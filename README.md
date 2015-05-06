@@ -1,5 +1,6 @@
 # Bibliography
 
+1. **Mobile Web Handbook** by Peter Paul Koch
 1. **Love is the Law** by Nick Mamatas
 1. **Mona Lisa Overdrive** by William Gibson
 1. **Count Zero** by William Gibson
