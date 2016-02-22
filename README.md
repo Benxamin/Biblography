@@ -1,5 +1,6 @@
 # Bibliography
 
+1. **The Nature of Software Development** by Ron Jeffries
 1. **The Illuminatus Trilogy** by Robert Shea & Robert Anton Wilson
 1. **Mobile Web Handbook** by Peter Paul Koch
 1. **Love is the Law** by Nick Mamatas
