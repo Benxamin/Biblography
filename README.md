@@ -10,7 +10,7 @@
 1. **Mona Lisa Overdrive** by William Gibson
 1. **Count Zero** by William Gibson
 1. **Program or Be Programmed** by Douglas Rushkoff
-1. **Necromancer** by William Gibson
+1. **Neuromancer** by William Gibson
 1. **33 1/3: Master of Reality** by John Darnielle
 1. **The Psychedelic Experience** by Timothy Leary
 1. **BE HERE NOW** by Ram Dass
