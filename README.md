@@ -1,5 +1,6 @@
 # Bibliography
 
+1. **Turn the Ship Around!** by L. David Marquet
 1. **Anatomy of Peace** by the Arbinger Institute
 1. **Awakenings** by Oliver Sacks
 1. **The Nature of Software Development** by Ron Jeffries
