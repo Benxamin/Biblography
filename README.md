@@ -1,5 +1,6 @@
 # Bibliography
 
+1. **Aaron Schwartz - The Boy Who Could Change the World** by Aaron Schwartz, ed. Lawrence Lessig
 1. **Draplin Design Company Pretty Much Everything** by Aaron James Draplin
 1. **The Vignelli Canon** by Massimo Vignelli
 1. **The Electric Kool-Aid Acid Test** by Tom Wolfe
