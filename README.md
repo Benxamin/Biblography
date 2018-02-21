@@ -1,5 +1,10 @@
 # Bibliography
 
+1. **Man's Search for Meeting** by Viktor Frakl
+1. **The Clean Coder** by Robert C. Martin
+1. **The Girl Who Takes an Eye for an Eye** by David Lagercrantz
+1. **The Ideal Team Player** by Patrick Lencioni
+1. **Hackers: Heroes of the Computer Revolution** by Steven Levy
 1. **Aaron Schwartz - The Boy Who Could Change the World** by Aaron Schwartz, ed. Lawrence Lessig
 1. **Draplin Design Company Pretty Much Everything** by Aaron James Draplin
 1. **The Vignelli Canon** by Massimo Vignelli
