@@ -1,5 +1,9 @@
 # Bibliography
 
+1. **Collected Poems in English** by Joseph Brodsky
+1. **Kafka: The Definitive Guide** by Neha Narkhede and Gwen Shapira
+1. **Clarinet (Yehudi Menuhin Music Guides)** by Jack Brymer
+1. **2 Second Lean** by Paul A. Akers
 1. **Man's Search for Meeting** by Viktor Frakl
 1. **The Clean Coder** by Robert C. Martin
 1. **The Girl Who Takes an Eye for an Eye** by David Lagercrantz
@@ -7,6 +11,7 @@
 1. **Hackers: Heroes of the Computer Revolution** by Steven Levy
 1. **Aaron Schwartz - The Boy Who Could Change the World** by Aaron Schwartz, ed. Lawrence Lessig
 1. **Draplin Design Company Pretty Much Everything** by Aaron James Draplin
+1. **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** by Jake Knapp and John Zeratsky
 1. **The Vignelli Canon** by Massimo Vignelli
 1. **The Electric Kool-Aid Acid Test** by Tom Wolfe
 1. **Turn the Ship Around!** by L. David Marquet
@@ -32,5 +37,6 @@
 1. **The Gospel of Judas, Second Edition** by  Rodolphe Kasser, Marvin Meyer, Gregor Wurst, Francois Gaudard
 1. **Fargo Rock City** by Chuck Klosterman
 1. **Web Form Design** by Luke Wroblewski
+1. **Book 4** by Aliester Crowley
 1. **A Brief History of Time: From the Big Bang to Black Holes** by Stephen W. Hawking
-1. **Theories of the Univers** ed by Milton K. Munitz
+1. **Theories of the Universe** ed by Milton K. Munitz
