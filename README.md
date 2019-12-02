@@ -16,7 +16,7 @@
 1. **The Ideal Team Player** by Patrick Lencioni
 1. **Hackers: Heroes of the Computer Revolution** by Steven Levy
 1. **Aaron Schwartz - The Boy Who Could Change the World** by Aaron Schwartz, ed. Lawrence Lessig
-1. **Draplin Design Company Pretty Much Everything** by Aaron James Draplin
+1. **Draplin Design Company - Pretty Much Everything** by Aaron James Draplin
 1. **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** by Jake Knapp and John Zeratsky
 1. **The Vignelli Canon** by Massimo Vignelli
 1. **The Electric Kool-Aid Acid Test** by Tom Wolfe
