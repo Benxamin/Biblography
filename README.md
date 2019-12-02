@@ -8,6 +8,7 @@
 1. **Collected Poems in English** by Joseph Brodsky
 1. **Kafka: The Definitive Guide** by Neha Narkhede and Gwen Shapira
 1. **Clarinet (Yehudi Menuhin Music Guides)** by Jack Brymer
+1. **The Left Hand of Darkness** by Ursula K. Le Guin
 1. **2 Second Lean** by Paul A. Akers
 1. **Man's Search for Meeting** by Viktor Frakl
 1. **The Clean Coder** by Robert C. Martin
