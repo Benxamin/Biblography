@@ -1,6 +1,7 @@
 # Bibliography
 
 1. **Drive Your Plow Over the Bones of the Dead** by Olga Tokarczuk
+1. **Order of the Day** by Eric Vuillard
 1. **Astrophysics for People in a Hurry** by Neil deGrasse Tyson
 1. **Designing Data Intensive Applications** by Martin Kleppmann
 1. **Artificial Unintelligence: How Computers Misunderstand the World** by Meredith Broussard
