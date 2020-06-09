@@ -10,6 +10,7 @@
 1. **Little Brother** by Cory Doctorow
 1. **Collected Poems in English** by Joseph Brodsky
 1. **Kafka: The Definitive Guide** by Neha Narkhede and Gwen Shapira
+1. **Ghost in the Wires** by Kevin Mitnick
 1. **Clarinet (Yehudi Menuhin Music Guides)** by Jack Brymer
 1. **The Left Hand of Darkness** by Ursula K. Le Guin
 1. **2 Second Lean** by Paul A. Akers
@@ -23,6 +24,7 @@
 1. **Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days** by Jake Knapp and John Zeratsky
 1. **The Vignelli Canon** by Massimo Vignelli
 1. **The Electric Kool-Aid Acid Test** by Tom Wolfe
+1. **The Cuckoo's Egg** by Clifford Stoll
 1. **Turn the Ship Around!** by L. David Marquet
 1. **Anatomy of Peace** by the Arbinger Institute
 1. **Awakenings** by Oliver Sacks
