@@ -28,28 +28,29 @@
 26. **The Electric Kool-Aid Acid Test** by Tom Wolfe
 27. **The Cuckoo's Egg** by Clifford Stoll
 28. **Turn the Ship Around!** by L. David Marquet
-29. **Anatomy of Peace** by the Arbinger Institute
-30. **Awakenings** by Oliver Sacks
-31. **The Nature of Software Development** by Ron Jeffries
-32. **The Illuminatus Trilogy** by Robert Shea & Robert Anton Wilson     
-33. **Mobile Web Handbook** by Peter Paul Koch
-34. **Mona Lisa Overdrive** by William Gibson       
-35. **Count Zero** by William Gibson
-36. **Neuromancer** by William Gibson
-37. **33 1/3: Master of Reality** by John Darnielle 
-38. **The Psychedelic Experience** by Timothy Leary 
-39. **BE HERE NOW** by Ram Dass
-40. **6 Steps to Successful Gardening** by Dr. Jacob R. Mittleider
-41. **Cryptonomicon** by Neal Stephenson
-42. **Our Band Could Be Your Life** by Michael Azerrad
-43. **Real Matter** by David Robertson
-44. **Grow-Box Gardens** by Dr. J.R. Mittleider
-45. **A Dance With Dragons** by George R. R. Martin
-46. **A Feast for Crows** by George R. R. Martin
-47. **Droidmaker: George Lucas And the Digital Revolution** by Michael Rubin
-48. **The Gospel of Judas, Second Edition** by  Rodolphe Kasser, Marvin Meyer, Gregor Wurst, Francois Gaudard
-49. **Fargo Rock City** by Chuck Klosterman
-50. **Web Form Design** by Luke Wroblewski
-51. **Book 4** by Aliester Crowley
-52. **A Brief History of Time: From the Big Bang to Black Holes** by Stephen W. Hawking
-53. **Theories of the Universe** ed by Milton K. Munitz  
+29. **Upgrade Soul** by Ezra Daniels
+30. **Anatomy of Peace** by the Arbinger Institute
+31. **Awakenings** by Oliver Sacks
+32. **The Nature of Software Development** by Ron Jeffries
+33. **The Illuminatus Trilogy** by Robert Shea & Robert Anton Wilson     
+34. **Mobile Web Handbook** by Peter Paul Koch
+35. **Mona Lisa Overdrive** by William Gibson       
+36. **Count Zero** by William Gibson
+37. **Neuromancer** by William Gibson
+38. **33 1/3: Master of Reality** by John Darnielle 
+39. **The Psychedelic Experience** by Timothy Leary 
+40. **BE HERE NOW** by Ram Dass
+41. **6 Steps to Successful Gardening** by Dr. Jacob R. Mittleider
+42. **Cryptonomicon** by Neal Stephenson
+43. **Our Band Could Be Your Life** by Michael Azerrad
+44. **Real Matter** by David Robertson
+45. **Grow-Box Gardens** by Dr. J.R. Mittleider
+46. **A Dance With Dragons** by George R. R. Martin
+47. **A Feast for Crows** by George R. R. Martin
+48. **Droidmaker: George Lucas And the Digital Revolution** by Michael Rubin
+49. **The Gospel of Judas, Second Edition** by  Rodolphe Kasser, Marvin Meyer, Gregor Wurst, Francois Gaudard
+50. **Fargo Rock City** by Chuck Klosterman
+51. **Web Form Design** by Luke Wroblewski
+52. **Book 4** by Aliester Crowley
+53. **A Brief History of Time: From the Big Bang to Black Holes** by Stephen W. Hawking
+54. **Theories of the Universe** ed by Milton K. Munitz  
