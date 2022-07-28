@@ -1,7 +1,17 @@
 # Bibliography
 
-1. **Broad Band** by Claire L. Evans
+1. **Sandworm** by Andy Greenberg
+1. **Second Foundation** by Isaac Asimov
+1. **Foundation and Empire** by Isaac Asimov
+1. **Foundation** by Isaac Asimov
+1. **At Night All Blood is Black** by David Diop
+1. **The Art and Science of Low Carbohydrate Living** by Jeff Volek, PhD, RD and Stephn Phinney, MD, PhD
+1. **The Arabian Nights** by Sir Richard F. Burton
+1. **Nemesis** by Isaac Asimov
 2. **Never Split the Difference** by Chris Voss
+1. **The Complete Robot** by Isaac Asimov
+1. **Broad Band** by Claire L. Evans
+1. **I am an Executioner: Love Stories** by Rajesh Parameswaran 
 3. **Drive Your Plow Over the Bones of the Dead** by Olga Tokarczuk
 4. **Order of the Day** by Eric Vuillard
 5. **Astrophysics for People in a Hurry** by Neil deGrasse Tyson
