@@ -1,5 +1,6 @@
 # Bibliography
 
+1. **The Language of Thieves** by Martin Pucher
 1. **Code** by Charles Petzold
 1. **Sandworm** by Andy Greenberg
 1. **Second Foundation** by Isaac Asimov
