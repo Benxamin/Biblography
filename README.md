@@ -20,7 +20,7 @@
 6. **Designing Data Intensive Applications** by Martin Kleppmann
 7. **Artificial Unintelligence: How Computers Misunderstand the World** by Meredith Broussard
 8. **In Praise of Shadows** by Jun'ichirō Tanizaki
-9. **Music Theory 101** by Book by Brian Boone and Marc Schonbrun
+9. **Music Theory 101** by Brian Boone and Marc Schonbrun
 10. **Little Brother** by Cory Doctorow
 11. **Collected Poems in English** by Joseph Brodsky
 12. **Kafka: The Definitive Guide** by Neha Narkhede and Gwen Shapira
